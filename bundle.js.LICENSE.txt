@@ -8,3 +8,9 @@
  *
  * Date: 2021-02-16
  */
+
+/**
+ * @license
+ * Copyright 2010-2022 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
