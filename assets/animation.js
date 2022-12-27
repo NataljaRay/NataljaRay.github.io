@@ -1,1 +1,1 @@
-$(document).ready((function(){setTimeout((function(){wow=new WOW({boxClass:"wow",animateClass:"animated",offset:0,mobile:!0,live:!1}),wow.init()}),200)}));
+$(document).ready((function(){setTimeout((function(){wow=new WOW({boxClass:"wow",animateClass:"animated",offset:0,mobile:!0,live:!0}),wow.init()}),200)}));
